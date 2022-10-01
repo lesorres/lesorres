@@ -6,7 +6,7 @@
 
 ## :woman_technologist: About Me
 - I am beginner backend programmer with background in business consulting
-- Currently student in programming [School 21](https://21-school.ru/) (part of [École 42](https://42.fr/) network)
+- Currently student in [School 21](https://21-school.ru/) (programming school, part of [École 42](https://42.fr/) network)
 
 ## Languages and Tools
 
