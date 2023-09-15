@@ -33,14 +33,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lesorres&theme=radical&hide_border=true)](https://git.io/streak-stats)
 -->
 
-## Contacts
-  <div id="badges">
-    <a href="https://t.me/m_diliara">
-      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
-    </a>
-    <a href="mailto:mazitova.diliara@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-    </a>
-  </div>
-  
   <p><img src="https://komarev.com/ghpvc/?username=lesorres&style=flat-square&color=blue" alt=""></p>
